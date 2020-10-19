@@ -4,7 +4,7 @@
 #include <iostream>
 
 using namespace std;
-
+//gabiiiii ma koraa
 
 class Card
 {
