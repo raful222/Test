@@ -1,6 +1,6 @@
 #include "Card.h"
 #include "Pile.h"
-
+// how are all going onnn!!!!!!!!!!!!!!!!!!!!!
 //Defualt constractor
 Card::Card()
 {
@@ -41,6 +41,7 @@ void Card::PrintTav() const
 	cout << "[ " << tav << " ]";
 
 	else
+//Gabiiii haya po
 		cout << "[ ? ]";
 }
 
