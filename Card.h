@@ -11,7 +11,7 @@ class Card
 private:
 	char tav;
 	bool status;
-
+/*sfdgblkdsfbgklbfdkgbdskfgbkdbfgkdbkfgbdkfbgkdbfk*/
 public:
 	Card();
 	Card(char, bool);

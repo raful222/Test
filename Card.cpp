@@ -7,7 +7,7 @@ Card::Card()
 	this->tav = 'A';
 	this->status = true;
 }
-
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
 //Constractor
 Card::Card(char Tav, bool Stat)
 {
