@@ -41,6 +41,7 @@ void Card::PrintTav() const
 	cout << "[ " << tav << " ]";
 
 	else
+//Gabiiii haya po
 		cout << "[ ? ]";
 }
 
