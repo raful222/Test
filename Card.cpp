@@ -8,6 +8,15 @@ Card::Card()
 	this->status = true;
 }
 /*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
+
+/*alskdgbsklhdfgvjsvdfjklhsvadjkfvsjkdvfjksvadfjkvv asjkdfvjksadvfkasbdfkbs*/
 //Constractor
 Card::Card(char Tav, bool Stat)
 {
