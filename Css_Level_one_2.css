@@ -1,0 +1,26 @@
+/*
+selected tag{
+property:value;
+}
+*/
+
+body{
+    background:url(https://helpx.adobe.com/content/dam/help/en/stock/how-to/visual-reverse-image-search/jcr_content/main-pars/image/visual-reverse-image-search-v2_intro.jpg)
+}
+div {
+    background:pink;
+    border-color: blue;
+    border-width:2px;
+    border-style: double;
+}
+
+p{
+    color:yellow;
+}
+
+
+span{
+    background:red;
+    color:black;
+}
+
